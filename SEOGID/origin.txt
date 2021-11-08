@@ -1,0 +1,12 @@
+Uri: https://youtop.pro/
+File Name: C:\Users\Андрей\Desktop\web\v4\youtop.pro\index.htm
+Content Type: text/html
+
+Uri: https://youtop.pro/direct
+File Name: C:\Users\Андрей\Desktop\web\v4\youtop.pro\direct.html
+Content Type: text/html
+
+Uri: https://youtop.pro/policy
+File Name: C:\Users\Андрей\Desktop\web\v4\youtop.pro\policy.html
+Content Type: text/html
+
